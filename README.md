@@ -12,7 +12,6 @@
 - [🚀 Ziel](#-ziel)
 - [🧡 Autorin](#-autorin)
 - [📸 Screenshots](#-screenshots)
-- [📄 Lizenz](#-lizenz)
 
 ---
 
@@ -62,7 +61,7 @@ Zahlino wurde ursprünglich für meine Tochter entwickelt, die in einem halben J
 
 ## 🧡 Autorin
 
-**[@DeinGitHubName](https://github.com/DeinGitHubName)**  
+**[@KimReuter](https://github.com/KimReuter)**  
 App-Entwicklerin, Mama, Kreativkopf & Bildungsnerd
 
 ---
@@ -71,8 +70,3 @@ App-Entwicklerin, Mama, Kreativkopf & Bildungsnerd
 
 > *Noch in Arbeit – folgen bald!*
 
----
-
-## 📄 Lizenz
-
-Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
